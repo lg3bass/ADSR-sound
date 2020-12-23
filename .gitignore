@@ -12,4 +12,5 @@ Thumbs.db
 # Exclude Folders/Files #
 #########################
 
-/build/
+/build/zOLD/
+patchers/zOLD/
